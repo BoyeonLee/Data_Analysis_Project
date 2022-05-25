@@ -57,5 +57,5 @@
 ## 📼 데모
 ![데이터분석 결과물 사이즈 다운](https://user-images.githubusercontent.com/78004477/168507752-9a79d28e-e97c-4c28-b339-d5d02c3a776b.gif)
 
-![pca_graph_html](https://user-images.githubusercontent.com/78004477/170193017-5e673071-15ab-4e83-864f-23a42cc936c5.gif)
+![pca_graph_html](https://user-images.githubusercontent.com/78004477/170193017-5e673071-15ab-4e83-864f-23a42cc936c5.gif)<br/>
 (사이트에 구현되진 못했습니다.)
